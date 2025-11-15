@@ -1,35 +1,42 @@
-<!-- Animated Banner -->
-![Banner](https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=900&lines=Stephen+James;Front-End+Engineer+%7C+Cloud+%26+DevOps;Linux+%7C+AWS+%7C+Docker;Building+Fast+UIs+%2B+Automating+Everything)
+<!-- Modern Neon Banner -->
+![Banner](https://readme-typing-svg.herokuapp.com?color=00eaff&size=28&center=true&vCenter=true&width=900&lines=Stephen+James;Front-End+Engineer;Cloud+%26+DevOps+Learner;Building+Clean+Interfaces+%26+Modern+Systems)
 
-# 🟢 Stephen James  
-**Front-End Engineer • Cloud/DevOps (AWS) • Linux/WSL**
-
----
-
-## 🟩 Cloud / DevOps Badges
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=3C873A)
+# 👋 Hi, I’m Stephen James  
+**Front-End Engineer • Cloud/DevOps (AWS) • Linux/WSL User**  
+Crafting fast UIs, learning cloud automation, and leveling up daily.
 
 ---
 
-## 🟢 Stack
-**React · JavaScript · Vite · Tailwind**  
-**AWS · Docker · Linux · GitHub Actions**  
-**WSL · Bash · VS Code**
+## ⚡ Skills & Tools
+**Frontend:** React • JavaScript • Tailwind • Vite  
+**Cloud/DevOps:** AWS • Docker • Linux • GitHub Actions  
+**Other:** Node.js • Bash • VS Code • WSL
 
 ---
 
-## 🟩 GitHub Stats (Matrix Mode)
-![Stats](https://github-readme-stats.vercel.app/api?username=naijacodehub&show_icons=true&theme=matrix&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naijacodehub&layout=compact&theme=matrix&hide_border=true)
+## ☁️ Cloud & DevOps Badges
+![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&logoColor=0db7ed)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111?style=for-the-badge&logo=githubactions&logoColor=2f80ed)
 
 ---
 
-## 🟢 Links
-🔗 **LinkedIn:** linkedin.com/in/stephen-james-dev  
-🔗 **X:** x.com/jeratdevwork  
+## 🚀 Current Focus
+- Improving my Cloud/DevOps foundations  
+- Building cleaner, optimized user interfaces  
+- Creating modern automation workflows  
 
-⭐ *If the code is clean, drop a star.*
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=naijacodehub&show_icons=true&theme=radical&hide_border=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naijacodehub&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🔗 Connect With Me
+**LinkedIn:** linkedin.com/in/stephen-james-dev  
+**X:** x.com/jeratdevwork  
+
+⭐ *Thanks for visiting — feel free to star my work.*
